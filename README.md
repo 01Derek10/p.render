@@ -1,7 +1,6 @@
 # 🚀 p.render
 
-> Proyecto desplegado en **Render** · [Ver aplicación en vivo](https://[tu-app].onrender.com)
-
+> Proyecto desplegado en **Render** · 
 Aplicación desarrollada para [propósito principal: ej. "gestión de usuarios", "API de productos", "dashboard de ventas"]. Este repositorio contiene el código fuente y la configuración para despliegue automatizado en Render.
 
 ---
