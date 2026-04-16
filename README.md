@@ -218,7 +218,7 @@ El sistema incluye autenticación con:
 
 ## 👤 Autor
 
-Derek - [@01Derek10]
+[@01Derek10](https://github.com/01Derek10)
 
 ## 🤝 Contribuciones
 
