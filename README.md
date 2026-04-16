@@ -215,13 +215,10 @@ El sistema incluye autenticación con:
 - **Testing**: PHPUnit
 - **Contenedorización**: Docker
 
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 👤 Autor
 
-Derek Boulton Arévalo
+Derek - @01Derek10
 
 ## 🤝 Contribuciones
 
